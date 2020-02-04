@@ -1,0 +1,5 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. example.
+PROCEDURE DIVISION.
+* Hello world in Cobol
+DISPLAY "Hello world"
