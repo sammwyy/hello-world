@@ -1,5 +1,5 @@
 # Hello World
-Hello world in different programming languages
+Hello world in different programming languages.
 
 # Index:
 #### A
