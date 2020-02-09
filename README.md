@@ -12,9 +12,9 @@ Hello world in different programming languages.
 - [Batch](https://github.com/sammwyy/hello-world/blob/master/in/batch.bat)
 
 #### C
-- [C++](https://github.com/sammwyy/hello-world/blob/master/in/c%2B%2B.cpp)
-- [C#](https://github.com/sammwyy/hello-world/blob/master/in/csharp.cs)
 - [C](https://github.com/sammwyy/hello-world/blob/master/in/c.c)
+- [C#](https://github.com/sammwyy/hello-world/blob/master/in/csharp.cs)
+- [C++](https://github.com/sammwyy/hello-world/blob/master/in/c%2B%2B.cpp)
 - [Clojure](https://github.com/sammwyy/hello-world/blob/master/in/clojure.clj)
 - [Cobol](https://github.com/sammwyy/hello-world/blob/master/in/cobol.cbl)
 - [Coffeescript](https://github.com/sammwyy/hello-world/blob/master/in/coffeescript.coffee)
